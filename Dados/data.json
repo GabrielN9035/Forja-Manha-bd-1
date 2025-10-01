@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "Ford Mustang",
+        "descricao": "Boss 1969",
+        "preco":350000.0,
+        "imagem": "../Imagens/Ford Mustang Boss 1969"
+    },
+    {
+        "id": 2,
+        "nome": "Chevrolet Impala",
+        "descricao": "Chevy 1967",
+        "preco": 400000.0,
+        "imagem":"../Chevrolet Impala 1967.webp"
+    }
+    {
+        "id": 3,
+        "nome": "Dodge Charger",
+        "descricao": "1970",
+        "preco": 500000.0,
+        "imagem":"../Dodge Changer 1970"
+    }
+    {
+        "id": 4,
+        "nome": "Chevrolet Chevette",
+        "descricao": "Chevette 1986",
+        "preco": 30000.0,
+        "imagem":"../Chevrolet Chvette 1986.webp"
+    }
+]
