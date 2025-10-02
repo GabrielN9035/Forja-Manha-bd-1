@@ -9,3 +9,5 @@ clona o repositorio do site em nuvem do github para o nosso computador local
 padding:0;
 padding:10px spx opx opx
 padding:opx baixo cima, 2px direita esquerda;
+
+# TAGS TAGS

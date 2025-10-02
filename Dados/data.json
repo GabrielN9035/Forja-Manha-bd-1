@@ -27,4 +27,46 @@
         "preco": 30000.0,
         "imagem":"../Chevrolet Chvette 1986.webp"
     }
+    {
+        "id": 5,
+        "nome": "Chevrolet Camaro",
+        "descricao": "SS 1970",
+        "preco": 30000.0,
+        "imagem":"../Chevrolet Camaro SS 1970"
+    }
+    {
+        "id": 6,
+        "nome": "Dodge Viper",
+        "descricao": "SRT 2013",
+        "preco": 20000.0,
+        "imagem":"../Dodge Viper SRT.webp"
+    }
+    {
+        "id": 7,
+        "nome": "Ford GT",
+        "descricao": "GT 2005",
+        "preco": 25000.0,
+        "imagem":"../Ford GT 2005"
+    }
+    {
+        "id": 8,
+        "nome": "BMW",
+        "descricao": "M3 GTR",
+        "preco": 50000.0,
+        "imagem":"../Bmw M3 GTR 2005"
+    }
+    {
+        "id": 9,
+        "nome": "Nissan",
+        "descricao": "350z",
+        "preco": 30000.0,
+        "imagem":"../Nissan 350z 2009"
+    }
+    {
+        "id": 8,
+        "nome": "Nissan GTR",
+        "descricao": "GTR R34",
+        "preco": 50000.0,
+        "imagem":"../Brian"
+    }
 ]
